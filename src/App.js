@@ -11,7 +11,8 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          Simple react game
+          Simple react game <br/>
+          Built with react-game-kit
         </p>
       </div>
     );
